@@ -1,12 +1,12 @@
 # Build a basic version of PayTM
 Welcome to the Paytm Clone project! This project is a React-based MERN web application that emulates some of the basic functionalities of the Paytm platform. Users can sign up, log in, view a list of all users, search for specific users, send money, and then navigate back to the dashboard.
 
-##### Table of Contents
-[Features](#features)
-[Preview Video](#preview-video)
-[Prerequisites](#prerequisites)
-[Installation](#installation)
-[Contributing](#contributing)
+# Table of Contents
+- [Features](#features)
+- [Preview Video](#preview-video)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Contributing](#contributing)
 
 ## Preview Video
 ![](./preview.gif)
